@@ -18,17 +18,11 @@
 
 ## 🔥 Featured Projects
 
-🚀 [**Rain Prediction Model**](https://github.com/Kaustubh102/rain-prediction)  
-*Weather-based classification using ensemble models.*
-
 🚀 [**Cricket Analysis Dashboard**](https://github.com/Kaustubh102/cricket-dashboard)  
 *Streamlit app to compare player performance with facial recognition.*
 
-🚀 [**Spam Detection**](https://github.com/Kaustubh102/Spam-detection)  
-*Hybrid ML model to classify messages as spam or not.*
-
-🚀 [**Virtual Assistant (ANN)**](https://github.com/Kaustubh102/Virtual-assistant-nova)  
-*Built with Python using Artificial Neural Networks.*
+🚀 [**Rain Prediction Model**](https://github.com/Kaustubh102/rain-prediction)  
+*Weather-based classification using ensemble models.*
 
 🚀 [**AQI Analysis**](https://github.com/Kaustubh102/AQI-Data-Analysis)  
 *EDA and visualization of Air Quality Index data across cities.*
@@ -38,8 +32,8 @@
 ## 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaustubh-yewale-3902551b9)
-- 📧 Email: kaustubh.yewale@example.com
-- 🌐 [Portfolio](https://kaustubh102.github.io/openrik.github.io/) *(optional)*
+- 📧 Email: kaustubh.yewale@gmail.com
+- 🌐 [Portfolio](https://kaustubh102.github.io/openrik.github.io/)
 
 ---
 
