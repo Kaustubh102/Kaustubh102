@@ -9,7 +9,8 @@
 
 ## 🧠 Skills & Tools
 
-- 📊 **Data Analysis**: Python (Pandas, NumPy), SQL, Power BI
+- 📊 **Data Analysis**: Python (Pandas, NumPy),ata handling, Feature Engineering, Visualization, PowerBI
+- 🛠️ **Databaase**: SQL
 - 🤖 **Machine Learning**: Scikit-Learn, KNN, Decision Trees, Random Forest, Voting, Bagging
 - 📈 **Visualization**: Matplotlib, Seaborn, Plotly, Power BI Dashboards
 - 🛠️ **Other Tools**: Git, Streamlit, Jupyter Notebook, OpenCV
