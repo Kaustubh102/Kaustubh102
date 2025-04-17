@@ -43,16 +43,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh102&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh102&layout=compact&theme=radical" alt="top-langs" />
-</p>
-
----
-
 <p align="center">✨ Let's connect and build something impactful with data! ✨</p>
